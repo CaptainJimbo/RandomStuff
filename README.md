@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CaptainJimbo
-- 👀 I’m interested in Astrophysics, Machine Learning Algorithms and Neural Networks
+- 👀 I’m an Physicist in love with Astrophysics and interested in Machine Learning Algorithms and Neural Networks
 - 🌱 I’m currently learning Machine Learning Methods and Neural Networks
 - 💞️ I’m looking to collaborate on Neural Network Algorithms to make people's life easier and mine richer.
 - 📫 How to reach me https://www.instagram.com/captainjimbo_themagnificent/
