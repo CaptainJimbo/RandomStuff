@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CaptainJimbo.
-- 👀 I’m an Astrophysicist interested in Machine Learning.
-- 🌱 I’m currently doing my MSc in AI.
-- 💞️ I'm open to collaborating on Astrophysics, Data Science and ML projects, you lucky fellow!
-- 📫 How to reach me? via "electronic letter" to dimitriskogias@gmail.com!
+- 👀 I’m an Astrophysicist.
+- 🌱 I’m currently finishing my MSc in Artificial Intelligence.
+- 💞️ I'm open to collaborating on Astrophysics, Machine Learning and Deep Learning projects, you lucky fellow!
+- 📫 You can reach me via an "electronic letter" to dimitriskogias@gmail.com!
 
 <!---
 CaptainJimbo/CaptainJimbo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
